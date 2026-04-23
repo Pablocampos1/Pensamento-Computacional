@@ -1,0 +1,32 @@
+# Relatório – Aula 09/04/2026
+
+## 1. Identificação
+**Nome: ** Pablo Campos De Miranda - RGM: 43661386
+
+## 2. Objetivos da Atividade
+* Reconhecer o surgimento da ciência da computação nas universidades.
+* Identificar o papel do pensamento computacional na programação e automação de tarefas.
+* Relacionar a evolução acadêmica da computação com aplicações práticas atuais.
+
+## 3. Resumo da Aula
+A aula abordou como a computação deixou de ser apenas uma ferramenta de cálculo matemático e se tornou uma disciplina acadêmica própria. Inicialmente ligada aos departamentos de matemática e engenharia, a ciência da computação ganhou espaço nas universidades ao focar não apenas no hardware, mas na lógica e na estruturação de algoritmos (software). A professora destacou que o ensino do pensamento computacional foi fundamental para formar profissionais capazes de abstrair problemas do mundo real, permitindo a evolução exponencial da tecnologia, da automação e da criação de sistemas complexos que utilizamos hoje.
+
+## 4. Atividade Prática – Aplicações
+**Tarefa:** Escolher duas aplicações práticas do pensamento computacional nas universidades e descrevê-las.
+
+**Aplicação 1:** Automação de Tarefas e Processamento em Lote
+* **Descrição:** A criação de algoritmos através de linguagens (como Python) para automatizar processos manuais repetitivos, como scripts que controlam rotinas de escaneamento de arquivos físicos e geração de PDFs em lote.
+* **Impacto:** Reduz drasticamente o tempo de trabalho braçal, minimiza erros de operação e permite o processamento de um volume de dados que seria inviável para um ser humano fazer manualmente.
+
+**Aplicação 2:** Arquitetura de Sistemas e Contêineres
+* **Descrição:** O uso da decomposição e abstração para dividir grandes aplicações em partes menores e independentes (microsserviços), utilizando ferramentas como Docker e N8N para integrar bancos de dados e interfaces.
+* **Impacto:** Torna o desenvolvimento de software muito mais organizado, garantindo que os sistemas sejam escaláveis, seguros e fáceis de manter no ambiente profissional.
+
+## 5. Reflexão Crítica
+O pensamento computacional vai muito além de saber programar; ele treina a nossa mente para estruturar o raciocínio. Na formação acadêmica e profissional, ele é a base que nos ensina a quebrar problemas gigantescos em partes menores, criar sequências lógicas e projetar sistemas eficientes, sendo a habilidade mais essencial para quem atua no mercado de tecnologia atual.
+
+## 6. Bibliografia
+* Santos, Marcelo. *Pensamento Computacional*. SAGAH, 2021.
+
+## 7. Conclusão
+A consolidação do pensamento computacional nas universidades foi o marco que transformou os computadores de meras calculadoras em plataformas de inovação. Hoje, essa base teórica e lógica é o que nos permite desenhar as arquiteturas do futuro e resolver os desafios do dia a dia com automação e eficiência.

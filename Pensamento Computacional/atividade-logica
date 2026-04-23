@@ -1,0 +1,31 @@
+```text
+ALGORITMO Controle_de_Entrada
+
+INICIO
+    // Preparando as listas
+    lista_da_turma <- "lista de alunos matriculados"
+    fila_na_porta <- "alunos esperando para entrar"
+
+    // O laco vai rodar enquanto ainda tiver gente na fila
+    ENQUANTO fila_na_porta NÃO estiver vazia FAÇA
+        
+        // Chama o primeiro aluno da fila para checar
+        aluno_atual <- primeiro da fila_na_porta
+
+        // Verifica se o nome dele esta na lista oficial
+        SE aluno_atual esta na lista_da_turma ENTÃO
+            // Se estiver na lista, deixa entrar
+            APARECER A MENSAGEM "Pode entrar! O aluno esta na lista."
+        SENÃO
+            // Se não estiver, barra a entrada
+            APARECER A MENSAGEM "Erro: Acesso negado. O aluno não esta matriculado."
+        FIM SE
+
+        // Tira esse aluno da fila porque ele já foi verificado
+        remover aluno_atual da fila_na_porta
+
+    FIM ENQUANTO
+
+    // Avisa que a fila acabou
+    APARECER A MENSAGEM "Pronto! Todos os alunos da fila foram verificados."
+FIM
