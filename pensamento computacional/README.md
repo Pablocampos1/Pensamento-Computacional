@@ -1,7 +1,6 @@
 # Projeto - Pensamento Computacional para Sistemas de Larga Escala
 
 **Estudante:** Amon Cardoso Timo
-**Estudante:** Maria Fernanda Dias
 **Estudante:** Pablo Campos De Miranda
 **Disciplina:** Pensamento Computacional
 **Professora:** Kadidja Valéria
